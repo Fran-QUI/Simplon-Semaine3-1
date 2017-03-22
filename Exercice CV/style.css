@@ -19,6 +19,8 @@ html {
 }
 
 body {
+  background-color: #2E677C;
+  margin-top: auto;
 
 }
 
@@ -48,7 +50,7 @@ header {
 
 main {
 /* j'ajoute une marge au dessus pour que le haut du texte du main soit visible et ne passe pas en dessous de mon nom*/
-  margin-top: 140px;
+  margin-top: 15%;
 
 }
 
