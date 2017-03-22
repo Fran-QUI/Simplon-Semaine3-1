@@ -32,6 +32,8 @@ Vacances du 7 au 21 Août. Fermeture de la BGE.
 Ne pas prendre trop d'avance sur le ruby. Car Compliqué.
   Graphikart -> BON COURS Ruby mais il faut connaitre PHP
 
+Un module PHP sera envisagé avant de passer à Ruby
+
 SIMPLON
 
   Problème orthographe / erreur dans les exemples remonté.
@@ -42,7 +44,7 @@ SEMAINE 2
 
 SEMAINE 3
 
-  " Avancer grace à l'expèrience "
+  " Avancer grace à l'expérience "
 
   Porter une attention particulière à "Bien organiser son CSS-DE Graphikart"
 
@@ -50,4 +52,17 @@ SONDAGE
 
   -------------------------------------------------------
   | En avance | Bien | Nominal | A la peine | En retard |
+  -------------------------------------------------------
   | 4         |  7   |       7 |    1       |     1     |
+
+GROUPES Semaine 3
+
+Aulne : Laure, Farida, François Q, Fong
+Charme : Steph, Aude, François K, Jeremy
+Chêne : Florian, Dorian, Théo, Julien
+Frêne : Mélanie, Fafa, Alex, Thibault
+Erable : Anouk, Will, Gaétan, François
+
+SITE WEB CODEUR WEB
+
+Un cahier des charge nous sera fourni pas Claude
