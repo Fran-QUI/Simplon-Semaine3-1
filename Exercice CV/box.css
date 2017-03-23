@@ -1,1 +1,19 @@
 /*Organisation par boite*/
+
+.conteneur {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex-grow: 3;
+
+}
+
+.categorie {
+  padding-top: 10px;
+  width: 50%;
+
+}
+
+.sscat {
+  width: 90%;
+}
