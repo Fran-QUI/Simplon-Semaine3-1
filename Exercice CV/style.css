@@ -1,11 +1,32 @@
 /* style.css par françois QUIVRON, pour Exercice CV Simplon */
 
 /*couleurs que je veux utiliser :
-Orange : FBA83F
-Corail : F44A47
-Violet : 840D76
-Bleu Foncé : 3F768D
-Bleu Clair : 79BAB1
+.primary-1 { background-color: #9183F0 }
+.primary-2 { background-color: #4637B2 }
+.primary-0 { background-color: #291C88 }
+.primary-3 { background-color: #1904B3 }
+.primary-4 { background-color: #1A00D8 }
+
+.secondary-1-1 { background-color: #FF7E7A }
+.secondary-1-2 { background-color: #FF3A34 }
+.secondary-1-0 { background-color: #C41511 }
+.secondary-1-3 { background-color: #FF0700 }
+.secondary-1-4 { background-color: #FF0700 }
+
+.secondary-2-1 { background-color: #75F57D }
+.secondary-2-2 { background-color: #29CA34 }
+.secondary-2-0 { background-color: #0D9A16 }
+.secondary-2-3 { background-color: #00CA0D }
+.secondary-2-4 { background-color: #00E40F }
+
+.complement-1 { background-color: #FFE37A }
+.complement-2 { background-color: #FFD434 }
+.complement-0 { background-color: #C49D11 }
+.complement-3 { background-color: #FFC900 }
+.complement-4 { background-color: #FFC900 }
+
+http://paletton.com/#uid=7461z0kthozgGUVprwAWewF++Ld
+
 */
 
 
@@ -13,13 +34,13 @@ html {
   z-index: 0;
 
   font-family: Helvetica;
-  color: #79BAB1;
-  background-color: #3F768D;
+  color: #FFC900;
+  background-color: #4637B2;
 
 }
 
 body {
-  background-color: #2E677C;
+  background-color: #291C88;
   margin-top: auto;
 
 }
@@ -32,8 +53,8 @@ header {
   width: 100%;
   z-index: 10;
 
-  background-color: #F44A47;
-  color: #840D76;
+  background-color: #FFC900;
+  color: #FF0700;
   text-align: center;
   text-shadow: 1px 1px 2px grey;
   border-radius: 8px;
@@ -44,6 +65,7 @@ header {
   box-shadow: 0 0 15px #2C3E50;
   letter-spacing: 3px;
 
+
   transform: rotate(2deg);
 
 }
@@ -51,12 +73,13 @@ header {
 main {
 /* j'ajoute une marge au dessus pour que le haut du texte du main soit visible et ne passe pas en dessous de mon nom*/
   margin-top: 15%;
+  padding-top: 1px;
 
 }
 
 footer {
-  background-color: #F44A47;
-  color: #840D76;
+  background-color: #C49D11;
+  color: #C41511;
   margin-bottom: 0px;
   font-size: 10px;
   text-align: center;
@@ -65,28 +88,25 @@ footer {
 
 h2 {
   text-align: center;
-  color: #3F768D;
-  background-color: #79BAB1;
+  color: #FFC900;
+  background-color: #0D9A16;
   width: 95%;
   margin-left: 2.5%;
   position :static;
   box-shadow: inset 0 0 3px #2C3E50;
-  text-shadow: inset 0 0 3px #2C3E50;
   font-size: 30px;
   border-radius: 2px;
-
-
-
-}
+  }
 
 h3 {
   text-align: center;
-  text-shadow: 0 0 3px #F44A47;
+  text-shadow: 0 0 3px #00CA0D;
+  color: #00CA0D;
 }
 
 li {
   list-style-type: none;
-  border-left: 3px solid #840D76;
+  border-left: 3px solid #C41511;
   margin-left: 10%;
   margin-right: 10%;
   padding-left: 2%;
